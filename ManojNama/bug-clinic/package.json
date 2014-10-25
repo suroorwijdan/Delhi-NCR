@@ -1,0 +1,14 @@
+{
+  "name": "bug-clinic",
+  "version": "0.0.0",
+  "description": "bug-clinic exercises for nodeschool@intellimeet",
+  "main": "01-intake.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manoj Nama",
+  "license": "ISC",
+  "dependencies": {
+    "stackup": "0.0.5"
+  }
+}
