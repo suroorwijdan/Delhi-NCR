@@ -1,0 +1,15 @@
+{
+  "name": "learnyounode",
+  "version": "0.0.0",
+  "description": "learnyounode exercises for nodeschool@intellimeet",
+  "main": "1-hello_word.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manoj Nama",
+  "license": "ISC",
+  "dependencies": {
+    "concat-stream": "^1.4.6",
+    "through2-map": "^1.4.0"
+  }
+}
