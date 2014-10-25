@@ -2,7 +2,7 @@
   "name": "stream-adventure",
   "version": "0.0.0",
   "description": "stream-adventure exercises for nodeschool@intellimeet",
-  "main": "1-hello_word.js",
+  "main": "01-beep_boop.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

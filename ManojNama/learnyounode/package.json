@@ -2,7 +2,7 @@
   "name": "learnyounode",
   "version": "0.0.0",
   "description": "learnyounode exercises for nodeschool@intellimeet",
-  "main": "1-hello_word.js",
+  "main": "01-hello_word.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
