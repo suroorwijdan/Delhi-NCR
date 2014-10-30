@@ -1,0 +1,27 @@
+{
+  "name": "stream-adventure",
+  "private": true,
+  "version": "0.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "through": "*",
+    "split": "*",
+    "concat-stream": "*",
+    "request": "*",
+    "websocket-stream": "*",
+    "ws": "*",
+    "browserify": "*",
+    "module-deps": "*",
+    "browser-resolve": "*",
+    "resolve": "*",
+    "detective": "*",
+    "through2": "*",
+    "parents": "*",
+    "stream-combiner2": "*",
+    "readable-stream": "*",
+    "xtend": "*",
+    "duplexer2": "*",
+    "shallow-copy": "*",
+    "inherits": "*"
+  }
+}
